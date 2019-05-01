@@ -1,0 +1,7 @@
+.card {
+    flex-wrap: wrap;
+    flex-flow: row;
+    height: 200px;
+    width: 200px;
+    
+}

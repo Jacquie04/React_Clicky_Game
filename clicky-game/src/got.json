@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Daenrys",
+        "count": 0,
+        "image": "./images/daenrys.jpg",
+    },
+    {
+        "id": 2,
+        "name": "Arya",
+        "count": 0,
+        "image": "./images/arya.jpg",
+    },
+    {
+        "id": 3,
+        "name": "Bran",
+        "count": 0,
+        "image": "./images/bran.jpg",
+    },
+    {
+        "id": 4,
+        "name": "Brienne",
+        "count": 0,
+        "image": "./images/brienne.jpg",
+    },
+    {
+        "id": 5,
+        "name": "Cersi",
+        "count": 0,
+        "image": "./images/cersi.jpg",
+    },
+    {
+        "id": 6,
+        "name": "Dragon",
+        "count": 0,
+        "image": "./images/dragon.jpg",
+    },
+    {
+        "id": 7,
+        "name": "Gray Worm",
+        "count": 0,
+        "image": "./images/gray_worm.jpg",
+    },
+    {
+        "id": 8,
+        "name": "Jaime",
+        "count": 0,
+        "image": "./images/jaime.jpg",
+    },
+    {
+        "id": 9,
+        "name": "Jon Snow",
+        "count": 0,
+        "image": "./images/jon_snow.jpg",
+    },
+    {
+        "id": 10,
+        "name": "Melisandre",
+        "count": 0,
+        "image": "./images/melisandre.jpg",
+    },
+    {
+        "id": 11,
+        "name": "Night King",
+        "count": 0,
+        "image": "./images/night_king.jpg",
+    },
+    {
+        "id": 12,
+        "name": "Sansa",
+        "count": 0,
+        "image": "./images/sansa.jpg",
+    },
+    {
+        "id": 13,
+        "name": "Tormund",
+        "count": 0,
+        "image": "./images/tormund.jpg",
+    },
+    {
+        "id": 14,
+        "name": "Tyrion",
+        "count": 0,
+        "image": "./images/tyrion.jpg",
+    },
+    {
+        "id": 15,
+        "name": "Varys",
+        "count": 0,
+        "image": "./images/varys.jpg",
+    },
+    {
+        "id": 16,
+        "name": "White Walker",
+        "count": 0,
+        "image": "./images/white_walker.jpg",
+    },
+]
