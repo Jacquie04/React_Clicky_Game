@@ -3,96 +3,96 @@
         "id": 1,
         "name": "Daenrys",
         "count": 0,
-        "image": "./images/daenrys.jpg",
+        "image": "https://assets1.ignimgs.com/2018/12/26/dany-4-1545858384618_1280w.jpg"
     },
     {
         "id": 2,
         "name": "Arya",
         "count": 0,
-        "image": "./images/arya.jpg",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/game-of-thrones-season-8-arya-stark-maisie-williams-1553863199.jpg"
     },
     {
         "id": 3,
         "name": "Bran",
         "count": 0,
-        "image": "./images/bran.jpg",
+        "image": "https://cnet4.cbsistatic.com/img/iMZ99m4s_f7J8z_Y8P_73N3w62c=/1092x0/2019/04/15/401310b3-f85a-4cb0-81f3-abc56c908d68/bran.jpg"
     },
     {
         "id": 4,
         "name": "Brienne",
         "count": 0,
-        "image": "./images/brienne.jpg",
+        "image": "https://img1.looper.com/img/gallery/how-got-ruined-the-romance-scene-that-everyone-wanted/intro-1557162708.jpg"
     },
     {
         "id": 5,
         "name": "Cersi",
         "count": 0,
-        "image": "./images/cersi.jpg",
+        "image": "https://www.telegraph.co.uk/content/dam/tv/2016/06/29/cersei2_trans_NvBQzQNjv4Bq8uCZQ4CwV1dl0Mg8NuwggWSDtfxxgc3CJ64yW7BKTEs.jpg?imwidth=450"
     },
     {
         "id": 6,
         "name": "Dragon",
         "count": 0,
-        "image": "./images/dragon.jpg",
+        "image": "https://cdn.images.express.co.uk/img/dynamic/20/590x/secondary/game-of-thrones-dragons-rhaegal-1035833.jpg"
     },
     {
         "id": 7,
         "name": "Gray Worm",
         "count": 0,
-        "image": "./images/gray_worm.jpg",
+        "image": "https://pbs.twimg.com/profile_images/901968111154421760/t350ISiW_400x400.jpg"
     },
     {
         "id": 8,
         "name": "Jaime",
         "count": 0,
-        "image": "./images/jaime.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Jaime_Lannister-Nikolaj_Coster-Waldau.jpg/220px-Jaime_Lannister-Nikolaj_Coster-Waldau.jpg"
     },
     {
         "id": 9,
         "name": "Jon Snow",
         "count": 0,
-        "image": "./images/jon_snow.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Jon_Snow-Kit_Harington.jpg/220px-Jon_Snow-Kit_Harington.jpg"
     },
     {
         "id": 10,
         "name": "Melisandre",
         "count": 0,
-        "image": "./images/melisandre.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Melisandre-Carice_van_Houten.jpg/220px-Melisandre-Carice_van_Houten.jpg"
     },
     {
         "id": 11,
         "name": "Night King",
         "count": 0,
-        "image": "./images/night_king.jpg",
+        "image": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/19/1494250862-508-promo-stills-900161456.jpg"
     },
     {
         "id": 12,
         "name": "Sansa",
         "count": 0,
-        "image": "./images/sansa.jpg",
+        "image": "https://i.pinimg.com/474x/e9/1e/05/e91e056fb36a0b04f2ebf823b5da70aa.jpg"
     },
     {
         "id": 13,
         "name": "Tormund",
         "count": 0,
-        "image": "./images/tormund.jpg",
+        "image": "https://imgix.bustle.com/uploads/image/2019/4/27/d8ca33f6-1fbb-4d66-9282-c80ba5f69abc-1503503945-syn-elm-1503486795-kristofer-hivju-as-tormund-got-1.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70"
     },
     {
         "id": 14,
         "name": "Tyrion",
         "count": 0,
-        "image": "./images/tyrion.jpg",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/game-of-thrones-season-8-peter-dinklage-tyrion-lannister-1554392499.jpg?crop=0.743xw:0.528xh;0.126xw,0.0700xh&resize=480:*"
     },
     {
         "id": 15,
         "name": "Varys",
         "count": 0,
-        "image": "./images/varys.jpg",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/c/cb/VARYSWINTERFELL.png/revision/latest?cb=20190503222427"
     },
     {
         "id": 16,
         "name": "White Walker",
         "count": 0,
-        "image": "./images/white_walker.jpg",
-    },
+        "image": "https://amp.insider.com/images/599ad9a721c3fc3f008b4a3e-750-562.png"
+    }
 ]

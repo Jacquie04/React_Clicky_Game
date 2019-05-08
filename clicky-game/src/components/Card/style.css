@@ -3,5 +3,18 @@
     flex-flow: row;
     height: 200px;
     width: 200px;
-    
+    justify-content: space-between;
 }
+
+.card > .img-container {
+overflow:hidden;
+text-align: center;
+}
+
+.card > .img-container > img {
+    height: 200px;
+    width: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
