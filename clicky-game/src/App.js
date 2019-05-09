@@ -40,6 +40,7 @@ class App extends Component {
         } else {
           this.gameOver();
         }
+      };
     });
   };
 
@@ -48,13 +49,18 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Title>Game of Thrones Character Tiles</Title>
+        <Title 
+        propsScore = {this.state.score}
+        propsHighScore = {this.state.highscore}
+        >Game of Thrones Character Tiles
+        </Title>
         {this.state.got.map(card => (
           <Card
             id={card.id}
             key={card.id}
             name={card.name}
             image={card.image}
+            propsClick = {this.clickCount}
           />
         ))}
       </Wrapper>
